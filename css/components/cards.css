@@ -1,0 +1,29 @@
+.card img {
+  width: 250px;
+}
+
+.card p {
+  opacity: .5;
+  size: 14px;
+  color: #44c767;
+}
+
+.card h4 {
+  size: 12px;
+  color: #2c2b2b;
+}
+
+.card {
+  width: 300px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
